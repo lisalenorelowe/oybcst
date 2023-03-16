@@ -13,7 +13,7 @@ Phytoplankton and zooplankton dynamics depend on salinity, temperature, and nutr
 
 ## Fisheries analysis
 Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
-- [Heatwave Duration and the Poor Recruitment of Oysters](https://github.com/lisalenorelowe/oybcst-fish)
+- [Phenology of Fish and Inverebrates in Mobile Bay, AL](https://github.com/lisalenorelowe/oybcst-fish)
 
 
 *This work is a result of research funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.*
