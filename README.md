@@ -1,4 +1,5 @@
-# Modeling connections between ecosystem condition and ecosystem services to increase resilience of environmental systems in the northern Gulf of Mexico.
+# Oysters, Blue Crabs, and Spotted Seatrout
+## Building Resilience to Environmental Trends and Variability in the Gulf of Mexico
 
 There are mutiple components...
 
