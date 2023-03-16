@@ -1,5 +1,5 @@
 # Oysters, Blue Crabs, and Spotted Seatrout
-## Building Resilience to Environmental Trends and Variability in the Gulf of Mexico
+***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
 
 There are mutiple components...
 
