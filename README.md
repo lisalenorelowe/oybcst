@@ -11,6 +11,9 @@ Modeling hydrodynamics allows us to estimate quantities like salinity and temper
 ## Ecosystem modeling
 Phytoplankton and zooplankton dynamics depend on salinity, temperature, and nutrients.  See more about modeling biogeochemical processes with [CGEM (Coastal General Ecology Model)](https://github.com/lisalenorelowe/cgem-schism)
 
+## Fisheries analysis
+Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
+- [Heatwave Duration and the Poor Recruitment of Oysters](https://github.com/lisalenorelowe/oybcst-fish)
 
 
 *This work is a result of research funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.*
