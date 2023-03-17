@@ -1,9 +1,9 @@
 # Oysters, Blue Crabs, and Spotted Seatrout
 ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
 
-There are mutiple components...
+There are mutiple components, including
 
-## Hydrodynamics
+## Hydrodynamics modeling
 Modeling hydrodynamics allows us to estimate quantities like salinity and temperature in the absence of measured data.  
 - For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/lisalenorelowe/oybcst-hydro).
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
