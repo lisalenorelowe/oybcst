@@ -13,7 +13,7 @@ Phytoplankton and zooplankton dynamics depend on salinity, temperature, and nutr
 
 ## Fisheries analysis
 Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
-- [Phenology of Fish and Inverebrates in Mobile Bay, AL](https://github.com/lisalenorelowe/oybcst-fish)
+- [Phenology of Fish and Inverebrates in Mobile Bay, AL](https://github.com/OyBcSt/oybcst-fish)
 
 ## Add a Project
 New to Notebooks?  Start out with a template:
