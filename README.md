@@ -5,7 +5,7 @@ There are mutiple components, including
 
 ## Hydrodynamics modeling
 Modeling hydrodynamics allows us to estimate quantities like salinity and temperature in the absence of measured data.  
-- For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/lisalenorelowe/oybcst-hydro).
+- For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/OyBcSt/oybcst-hydro).
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
 
 ## Ecosystem modeling
