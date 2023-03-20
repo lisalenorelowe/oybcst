@@ -22,7 +22,7 @@ New to Notebooks?  Start out with a template:
 
 
 ## Thank you!
-This work is a result of research funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194.
+This work is a result of research funded by the National Oceanic and Atmospheric Administration's RESTORE Science Program under award NA19NOS4510194, awarded to University of South Alabama, Mississippi State University, Auburn University, and North Carolina State University.
 
 The hydrodynamics modeling for this project is done on Expanse, at the San Diego Supercomputer Center (SDSC), and the modeling data is being hosted on Open Storage Network (OSN), through allocation EES210015 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.
 
