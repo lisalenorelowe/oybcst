@@ -1,7 +1,10 @@
 # Oysters, Blue Crabs, and Spotted Seatrout
 ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
 
-There are mutiple components, including
+This project explores how oyster, blue crab, and spotted seatrout populations respond to human and environmental changes with the goal of improving the management of these economically and culturally important species.  
+See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout](https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout)
+
+There are mutiple components, including:
 
 ## Hydrodynamics modeling
 Modeling hydrodynamics allows us to estimate quantities like salinity and temperature in the absence of measured data.  
