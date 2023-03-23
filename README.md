@@ -11,7 +11,7 @@ Coarse resolution data sets from general circulation models are downscaled and b
 - [Downscaled and bias corrected general circulation model data](https://github.com/OyBcSt/Climate_data)
 
 ## Hydrodynamics modeling
-Modeling hydrodynamics allows us to estimate quantities like salinity and temperature in the absence of measured data.  
+A hydrodynamics model calculates sea surface height, water temperature, salinity, and currents. Observations of physical quantities are only available at a handful of locations and times, but our model can fill in the gaps, giving us useful data for each point in space and time for the area of interest.
 - For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/OyBcSt/oybcst-hydro).
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
 
