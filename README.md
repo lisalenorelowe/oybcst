@@ -7,7 +7,7 @@ See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seat
 There are mutiple components, including:
 
 ## Climate modeling
-Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. These results will be used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
+Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. These results are being used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
 - [Downscaled and bias corrected general circulation model data](https://github.com/OyBcSt/Climate_data)
 
 ## Hydrodynamics modeling
