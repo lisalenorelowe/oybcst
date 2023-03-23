@@ -4,14 +4,14 @@
 This project explores how oyster, blue crab, and spotted seatrout populations respond to human and environmental changes with the goal of improving the management of these economically and culturally important species.  
 See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout](https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout)
 
-There are mutiple components, including:
+There are mutiple efforts, including:
 
-## Climate modeling
-Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. These results are being used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
+## Climate downscaling
+Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. Our results are being used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
 - [Downscaled and bias corrected general circulation model data](https://github.com/OyBcSt/Climate_data)
 
 ## Hydrodynamics modeling
-A hydrodynamics model calculates sea surface height, water temperature, salinity, and currents. Observations of physical quantities are only available at a handful of locations and times, but our model can fill in the gaps, giving us useful data for each point in space and time for the area of interest.
+A hydrodynamics model calculates sea surface height, water temperature, salinity, and currents. Observations of these physical quantities may only be available for a handful of locations and times, but our model can fill in the gaps, giving us useful data for each point in space and time in the model domain.
 - For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/OyBcSt/oybcst-hydro).
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
 
