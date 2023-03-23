@@ -1,7 +1,7 @@
-# Oysters, Blue Crabs, and Spotted Seatrout
+# Oysters, Blue Crabs, and Spotted Seatrout (OyBcSt)
 ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
 
-This project explores how oyster, blue crab, and spotted seatrout populations respond to human and environmental changes with the goal of improving the management of these economically and culturally important species.  
+Oysters, Blue Crab, and Speckled Trout are iconic Gulf species that provide important ecosystem services. Now, they are in decline. To increase resilience, we need to identify stressors and manage stressors, habitats, and populations.
 See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout](https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout)
 
 There are mutiple efforts, including:
@@ -16,7 +16,8 @@ A hydrodynamics model calculates sea surface height, water temperature, salinity
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
 
 ## Ecosystem modeling
-Phytoplankton and zooplankton dynamics depend on salinity, temperature, and nutrients.  See more about modeling biogeochemical processes with [CGEM (Coastal General Ecology Model)](https://github.com/OyBcSt/cgem-schism)
+CGEM (Coastal General Ecology Model) is an ecosystem model that describes biogeochemical processes regulating carbon, oxygen, nutrients, phytoplankton, and zooplankton. 
+- See more about modeling biogeochemical processes with [CGEM (Coastal General Ecology Model)](https://github.com/OyBcSt/cgem-schism)
 
 ## Fisheries analysis
 Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
