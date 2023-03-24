@@ -9,11 +9,7 @@ See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seat
 - Multiple stressors are increasing and are overlaid with natural environmental variability.
 - Oyster, blue crab, and speckled trout (OyBcSt) populations are being affected by these trends and variability.
 
-**Why focus on OyBcSt?**
-- Active management and restoration efforts towards these species are already underway.
-- Each have different life history strategies.
-- Each have different habitat utilization.
-- Management activities directed at OyBcSt resilience are expected to improve resilience of *other species* in the estuary.
+**Why focus on OyBcSt?** Active management and restoration efforts towards these species are already underway. Each have different life history strategies and different habitat utilization.  We expect that management activities directed at OyBcSt resilience will improve resilience of *other species* in the estuary as well.
 
 ## Climate downscaling
 Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. Our results are being used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
