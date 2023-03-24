@@ -4,7 +4,16 @@
 Oysters, Blue Crab, and Speckled Trout are iconic Gulf species that provide important ecosystem services. Now, they are in decline. To increase resilience, we need to identify stressors and manage stressors, habitats, and populations.
 See: [https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout](https://restoreactscienceprogram.noaa.gov/projects/oysters-blue-crabs-seatrout)
 
-There are mutiple efforts, including:
+**The Scientific Premise**
+- Variations and trends in river discharge drive patterns of primary and secondary production in the bay.
+- Multiple stressors are increasing and are overlaid with natural environmental variability.
+- Oyster, blue crab, and speckled trout (OyBcSt) populations are being affected by these trends and variability.
+
+**Why focus on OyBcSt?**
+- Active management and restoration efforts towards these species are already underway.
+- Each have different life history strategies.
+- Each have different habitat utilization.
+- Management activities directed at OyBcSt resilience are expected to improve resilience of *other species* in the estuary.
 
 ## Climate downscaling
 Coarse resolution data sets from general circulation models are downscaled and bias corrected appropriate to the scale of our study area. Our results are being used as forcings for the watershed modeling, physical and biogeochemical modeling. See:
