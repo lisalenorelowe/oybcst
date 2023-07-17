@@ -47,6 +47,10 @@ CGEM (Coastal General Ecology Model) is an ecosystem model that describes biogeo
 Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
 - [Phenology of Fish and Inverebrates in Mobile Bay, AL](https://github.com/OyBcSt/oybcst-fish)
 
+### Watershed Modeling Team
+The hydrodynamics and water quality in Mobile Bay is affected by water and nutrients flowing in from the Mobile River Basin.  See:
+- [Modeled vs Measured streamflow, sediment, nitrate, and phosphate](https://github.com/oybcst/watershed-simulated-vs-observed)
+
 ### Add a Project
 For OyBcSt, our team of teams: We will continute work on making our results accessible and available.  Add a Notebook for your project here.
 
