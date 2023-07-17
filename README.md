@@ -35,7 +35,7 @@ Coarse resolution data sets from general circulation models are downscaled and b
 
 ### Hydrodynamics Team
 A hydrodynamics model calculates sea surface height, water temperature, salinity, and currents. Observations of these physical quantities may only be available for a handful of locations and times, but our model can fill in the gaps, giving us useful data for each point in space and time in the model domain.
-- For animations and details about grids, see: [Mobile Bay Hydrodynamics modeling](https://github.com/OyBcSt/oybcst-hydro).
+- For details on model runs and a collection of animations, see: [Mobile Bay Hydrodynamics modeling](https://oybcst.github.io).
 - To compare modeled vs measured salinity and temperature, see our [interactive map of Mobile Bay](https://lisalenorelowe.shinyapps.io/shiny-mb/)
 
 ### Ecosystem Modeling Team
