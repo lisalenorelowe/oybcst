@@ -40,7 +40,8 @@ A hydrodynamics model calculates sea surface height, water temperature, salinity
 
 ### Ecosystem Modeling Team
 CGEM (Coastal General Ecology Model) is an ecosystem model that describes biogeochemical processes regulating carbon, oxygen, nutrients, phytoplankton, and zooplankton. 
-- See more about modeling biogeochemical processes with [CGEM (Coastal General Ecology Model)](https://github.com/OyBcSt/cgem-schism)
+- To run CGEM as a water column with no transport, see our Jupyter Notebook in the [cgem-schism repo](https://github.com/OyBcSt/cgem-schism)
+- For updates on coupling CGEM with SCHISM, and details about compiling, running, and visualizing CGEM with SCHISM, see [the CGEM repo](https://github.com/oybcst/CGEM).
 
 ### Fisheries Analysis Team
 Analysis of species data may be improved by using modeling data to fill gaps in measured data.  See:
