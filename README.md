@@ -55,8 +55,8 @@ The hydrodynamics and water quality in Mobile Bay is affected by water and nutri
 For OyBcSt, our team of teams: We will continute work on making our results accessible and available.  Add a Notebook for your project here.
 
 New to Notebooks?  Start out with a template:
-- [Template for creating an Interactive Notebook in R](https://github.com/OyBcSt/project-template-r)
 - [Template for creating an Interactive Notebook with Python](https://github.com/OyBcSt/project-template-python)
+- [Template for creating an Interactive Notebook in R](https://github.com/OyBcSt/project-template-r)
 
 
 ## Thank you!
